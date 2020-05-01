@@ -18,3 +18,6 @@ Each folder is a new project, you will need to repeat this process for all 3 pro
 5. Visit `http://localhost:8080` in the browser
 
 You should see a demo looking exactly like in my videos. Follow step by step.
+
+
+<img width="870" alt="Screenshot 2020-05-01 at 7 00 20 PM" src="https://user-images.githubusercontent.com/20924219/80812287-4636f580-8be5-11ea-9547-757c57c89efb.png">
